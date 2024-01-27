@@ -234,7 +234,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 0
+      time: 0.0030816793
       value: 0
       inSlope: 0
       outSlope: 0
@@ -243,18 +243,27 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 2
-      outSlope: 2
+      time: 0.32951608
+      value: 0.21363628
+      inSlope: 0.0996227
+      outSlope: 0.0996227
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 2.0030818
+      value: 1
+      inSlope: 1.371898
+      outSlope: 1.371898
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.098620236
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  rotationSpeed: 100
+  rotationSpeed: 400
 --- !u!50 &2028021126120736095
 Rigidbody2D:
   serializedVersion: 4
